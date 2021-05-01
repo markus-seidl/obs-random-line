@@ -10,6 +10,6 @@ This utility does the following:
 You can either build it yourself or download a build from the builds directory
 
 * [Mac x86](builds/obs-random-line-mac-x86)
-
+* [Windows x86](builds/obs-random-line-win-x86.exe)
 
 Also download the example [data.txt](data.txt) file.
